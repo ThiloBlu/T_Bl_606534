@@ -1,10 +1,10 @@
-package tuc.isse.uebung01;
+package exercise6;
 
 import javax.swing.JOptionPane;
 
 public class Verkehr {
 
-    public static final double  = 0;
+    public static final double V  = 0;
 
     /**
      * Fragt Xs, Vx, und A ab und ruft alle methoden aus.
