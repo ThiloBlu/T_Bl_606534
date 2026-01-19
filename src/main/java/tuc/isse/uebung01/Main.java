@@ -1,3 +1,4 @@
+package tuc.isse.uebung01;
 
 /**
  * Klasse zur Funktionendefinition

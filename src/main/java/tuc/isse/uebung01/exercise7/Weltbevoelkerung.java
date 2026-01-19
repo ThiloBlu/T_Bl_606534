@@ -1,4 +1,4 @@
-package exercise7;
+package tuc.isse.uebung01.exercise7;
 
 import javax.swing.JOptionPane;
 

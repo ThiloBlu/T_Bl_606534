@@ -1,4 +1,4 @@
-package exercise5;
+package tuc.isse.uebung01.exercise5;
 
 public class casting {
     public static void cast_char_to_float(char x, char y){

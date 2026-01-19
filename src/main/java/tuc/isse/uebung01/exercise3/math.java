@@ -1,4 +1,4 @@
-package exercise3;
+package tuc.isse.uebung01.exercise3;
 
 /**
  * Methode zur Ausführung der Berechnung f(x,y,z) = 6 - x/2 + x*(y + z/x*y)

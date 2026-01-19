@@ -1,4 +1,4 @@
-package exercise8;
+package tuc.isse.uebung01.exercise8;
 
 import static org.junit.Assert.* ;
 
